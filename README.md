@@ -19,4 +19,4 @@ ng g class core/interceptors/error-handler --type=interceptor\
 ng g class core/interceptors/http-token --type=interceptor\
 ng g guard core/guards/auth\
 ng g class core/guards/admin-guard\
-ng g class core/models/\
+ng g class core/models/
