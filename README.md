@@ -1,6 +1,8 @@
-# AngularWorkspace
+# Latest releases
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+17/04 - Add Angular Material schematics
+
+16/04 - Add Bootstrap schematics
 
 ## Terminal commands to generate this structure
 
